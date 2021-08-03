@@ -1,0 +1,18 @@
+{
+  "dataServiceGeneratorVersion": "0.8.0",
+  "appInfo": {
+    "name": "test",
+    "description": "",
+    "version": "iws3xswe",
+    "id": "ckm38zn0w77885810s6l38gsn1i",
+    "url": "https://app.amplication.com/ckm38zn0w77885810s6l38gsn1i",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "ckm38zn0w77885810s6l38gsn1i"
+    }
+  }
+}
